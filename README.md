@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anjana Herath</h1>
+<h3 align="center">Software Engineering Undergraduate at NSBM Green University</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaboii&label=Profile%20views&color=0e75b6&style=flat" alt="anjaboii" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjaboii" alt="anjaboii" /></a> </p>
 
 - 🔭 I’m currently working on **Breazy**
 
-- 🌱 I’m currently learning **Blender,Flutter**
+- 🌱 I’m currently learning **Flutter,JAVA**
 
 - 📫 How to reach me **vinukthiherath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anjanaherath03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjanaherath03" height="30" width="40" /></a>
-<a href="https://fb.com/anjana herath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana herath" height="30" width="40" /></a>
+<a href="https://fb.com/anjana.herath.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana.herath.94" height="30" width="40" /></a>
 <a href="https://instagram.com/_.anja_boii._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anja_boii._" height="30" width="40" /></a>
 </p>
 
