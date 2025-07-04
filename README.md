@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working at **Amigos**  
-🌱 Currently learning **Flutter** & **Java**  
+🌱 Currently learning **Python** 
 👨‍💻 All of my projects are available at: [My GitHub Repositories](https://github.com/Anjaboii?tab=repositories)  
 💬 Ask me about **HTML**, **CSS**, and **Java**  
 📫 Reach me at: **vinukthiherath@gmail.com**
